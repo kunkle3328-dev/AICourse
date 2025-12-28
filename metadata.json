@@ -1,0 +1,7 @@
+{
+  "name": "Live Course Companion",
+  "description": "A real-time, voice-first AI tutor that teaches from your sources using RAG and a structured teaching state machine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
